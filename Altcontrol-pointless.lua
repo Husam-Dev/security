@@ -1,1 +1,1 @@
--- This file was generated using Luraph Obfuscator V(hiddentext)
+-- This file wass generated using Luraph Obfuscator V(hiddentext)
